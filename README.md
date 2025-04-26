@@ -1,1 +1,1 @@
-# mycourseindex-v2
+Course Genie
